@@ -20,6 +20,5 @@ export default function Product1() {
                 <a href="#"><div className="card"><img src={image} alt="" /><p>Coffe Powder</p><h3>Upto 80% Off</h3></div></a>
             </div>
         </div>
-
     )
 }
