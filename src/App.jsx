@@ -14,7 +14,7 @@ function App() {
         <BestElectronic />
         <Product1 />
       </div>
-      {/* <Footer/> */}
+      <Footer/>
 
     </div>
   )

@@ -1,9 +1,5 @@
 .main{
-    margin-top: 70px;
-    background-color: rgb(228, 228, 228);
     width: 100vw;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 10px;
-    
-}
+    background-color: rgb(228, 228, 228);
+    padding: 70px 20px 10px 20px;
+} 
